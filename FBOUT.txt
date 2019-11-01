@@ -1,0 +1,649 @@
+KWDD                     ;	Belle River                                                                                         ;	                                                                                                    ;	082-42W                  ;	42-18N                   ;	184            
+
+KEYW                     ;	Key West International Airport                                                                      ;	FL                                                                                                  ;	81-46W                   ;	24-33N                   ;	1              
+
+KMIA                     ;	Miami International Airport                                                                         ;	FL                                                                                                  ;	080-19W                  ;	25-47N                   ;	4              
+
+KPBI                     ;	Palm Beach International                                                                            ;	FL                                                                                                  ;	80-06W                   ;	26-41N                   ;	6              
+
+KMLB                     ;	Melbourne International                                                                             ;	FL                                                                                                  ;	080-39W                  ;	28-06N                   ;	10             
+
+KMCO                     ;	Orlando International Airport                                                                       ;	FL                                                                                                  ;	81-20W                   ;	28-25N                   ;	29             
+
+KJAX                     ;	Jacksonville International                                                                          ;	FL                                                                                                  ;	81-42W                   ;	30-30N                   ;	9              
+
+KSAV                     ;	Savannah International Airport                                                                      ;	GA                                                                                                  ;	81-12W                   ;	32-07N                   ;	16             
+
+KCHS                     ;	null;	SC                                                                                                  ;	080-02W                  ;	32-54N                   ;	14             
+
+KLHW                     ;	Ft. Stewart                                                                                         ;	GA                                                                                                  ;	081-34W                  ;	31-53N                   ;	14             
+
+KTBW                     ;	Tampa Bay Area                                                                                      ;	FL                                                                                                  ;	082-24W                  ;	27-42N                   ;	12             
+
+KTPA                     ;	Tampa International Airport                                                                         ;	FL                                                                                                  ;	082-32W                  ;	27-58N                   ;	8              
+
+KCTY                     ;	Cross City Airport                                                                                  ;	FL                                                                                                  ;	083-06W                  ;	29-38N                   ;	13             
+
+KAYS                     ;	Waycross / Ware County, Ga                                                                          ;	GA                                                                                                  ;	082-24W                  ;	31-15N                   ;	46             
+
+KTLH                     ;	Tallahassee Regional Airport                                                                        ;	FL                                                                                                  ;	84-21W                   ;	30-24N                   ;	25             
+
+KABY                     ;	Albany Southwest Georgia                                                                            ;	GA                                                                                                  ;	084-12W                  ;	31-32N                   ;	60             
+
+KMCN                     ;	Middle Georgia Regional Airport                                                                     ;	GA                                                                                                  ;	83-39W                   ;	32-41N                   ;	108            
+
+KAGS                     ;	Augusta Bush Field                                                                                  ;	GA                                                                                                  ;	081-58W                  ;	33-22N                   ;	44             
+
+KATL                     ;	Hartsfield-jackson Atlanta                                                                          ;	GA                                                                                                  ;	84-26W                   ;	33-39N                   ;	313            
+
+KAQQ                     ;	Apalachicola, Apalachicola                                                                          ;	FL                                                                                                  ;	085-01-29W               ;	29-43-37N                ;	6              
+
+KVPS                     ;	Valparaiso / Eglin Air Force Base                                                                   ;	FL                                                                                                  ;	086-31W                  ;	30-29N                   ;	26             
+
+KMOB                     ;	Mobile Regional Airport                                                                             ;	AL                                                                                                  ;	88-14W                   ;	30-41N                   ;	66             
+
+KLSF                     ;	Fort Benning                                                                                        ;	GA                                                                                                  ;	084-50W                  ;	32-20N                   ;	71             
+
+KMGM                     ;	Montgomery Dannelly Field                                                                           ;	AL                                                                                                  ;	86-24W                   ;	32-18N                   ;	67             
+
+KMGE                     ;	Marietta / Dobbins Air Force Base                                                                   ;	GA                                                                                                  ;	084-31W                  ;	33-55N                   ;	326            
+
+KBHM                     ;	null;	AL                                                                                                  ;	086-45W                  ;	33-34N                   ;	196            
+
+KCKL                     ;	Centreville                                                                                         ;	AL                                                                                                  ;	087-15W                  ;	32-54N                   ;	140            
+
+KMSY                     ;	New Orleans International  Airport                                                                  ;	LA                                                                                                  ;	90-15W                   ;	30-00N                   ;	2              
+
+KBVE                     ;	Boothville                                                                                          ;	LA                                                                                                  ;	089-24W                  ;	29-20N                   ;	0              
+
+KLIX                     ;	Slidell                                                                                             ;	LA                                                                                                  ;	089-49W                  ;	30-20N                   ;	8              
+
+KMEI                     ;	Meridian Key Field                                                                                  ;	MS                                                                                                  ;	088-45W                  ;	32-20N                   ;	91             
+
+KJAN                     ;	Jackson, Jackson International Airport                                                              ;	MS                                                                                                  ;	090-04-39W               ;	32-19-11N                ;	105            
+
+KPOE                     ;	Fort Polk, Polk Aaf Ft Polk                                                                         ;	LA                                                                                                  ;	093-11-38W               ;	31-03N                   ;	101            
+
+KLCH                     ;	Lake Charles Regional Airport                                                                       ;	LA                                                                                                  ;	093-23W                  ;	30-12N                   ;	5              
+
+KBPT                     ;	Southeast Texas Rgnl Airport                                                                        ;	TX                                                                                                  ;	094-08W                  ;	29-95N                   ;	5              
+
+KGLS                     ;	Scholes Field                                                                                       ;	TX                                                                                                  ;	094-52W                  ;	29-16N                   ;	2              
+
+KIAH                     ;	Houston Intercontinental                                                                            ;	TX                                                                                                  ;	095-22W                  ;	30-00N                   ;	30             
+
+KGGG                     ;	Longview Gregg County Airport                                                                       ;	TX                                                                                                  ;	094-43W                  ;	32-23N                   ;	111            
+
+KSHV                     ;	Shreveport Regional Airport                                                                         ;	LA                                                                                                  ;	93-50W                   ;	32-27N                   ;	79             
+
+KFWD                     ;	Fort Worth                                                                                          ;	TX                                                                                                  ;	097-18W                  ;	32-50N                   ;	196            
+
+KBRO                     ;	Brownsville/south Padre Is                                                                          ;	TX                                                                                                  ;	97-25W                   ;	25-54N                   ;	7              
+
+KCRP                     ;	Corpus Christi International                                                                        ;	TX                                                                                                  ;	97-31W                   ;	27-46N                   ;	13             
+
+KLRD                     ;	Laredo, Laredo International Airport                                                                ;	TX                                                                                                  ;	099-27-41W               ;	27-32-37N                ;	155            
+
+KSAT                     ;	San Antonio International  Airport                                                                  ;	TX                                                                                                  ;	098-28W                  ;	29-32N                   ;	247            
+
+KATT                     ;	Camp Mabry/austin City Asos                                                                         ;	TX                                                                                                  ;	097-46W                  ;	30-19N                   ;	201            
+
+KVCT                     ;	Victoria Regional Airport                                                                           ;	TX                                                                                                  ;	96-56W                   ;	28-52N                   ;	35             
+
+KACT                     ;	Waco Regional Airport                                                                               ;	TX                                                                                                  ;	97-13W                   ;	31-36N                   ;	157            
+
+KHLR                     ;	Fort Hood, Hood Aaf Ft Hood                                                                         ;	TX                                                                                                  ;	097-42W                  ;	31-08N                   ;	282            
+
+KDFW                     ;	Dallas/ft. Worth International  Airport                                                             ;	TX                                                                                                  ;	097-02W                  ;	32-54N                   ;	184            
+
+KSEP                     ;	Stephenville, Clark Field Municipal Airport                                                         ;	TX                                                                                                  ;	098-11W                  ;	32-13N                   ;	403            
+
+KDRT                     ;	Del Rio International  Airport                                                                      ;	TX                                                                                                  ;	100-55W                  ;	29-22N                   ;	304            
+
+KGDP                     ;	Guadalupe Pass                                                                                      ;	TX                                                                                                  ;	104-49W                  ;	31-50N                   ;	1663           
+
+KSJT                     ;	Mathis Field                                                                                        ;	TX                                                                                                  ;	100-30W                  ;	31-21N                   ;	584            
+
+KMRF                     ;	Marfa                                                                                               ;	TX                                                                                                  ;	104-01W                  ;	30-22N                   ;	1478           
+
+KMAF                     ;	Midland International Airport                                                                       ;	TX                                                                                                  ;	102-12W                  ;	31-56N                   ;	875            
+
+KABI                     ;	Abilene Regional Airport                                                                            ;	TX                                                                                                  ;	099-41W                  ;	32-25N                   ;	546            
+
+KLBB                     ;	Lubbock International Airport                                                                       ;	TX                                                                                                  ;	101-49W                  ;	33-40N                   ;	1000           
+
+KROW                     ;	Roswell Industrial Air Centr                                                                        ;	NM                                                                                                  ;	104-32W                  ;	33-18N                   ;	1118           
+
+K2C2                     ;	White Sands                                                                                         ;	NM                                                                                                  ;	106-29W                  ;	32-23N                   ;	1244           
+
+KELP                     ;	El Paso International Airport                                                                       ;	TX                                                                                                  ;	106-23W                  ;	31-49N                   ;	1206           
+
+KTCS                     ;	Truth Or Consequences Muni                                                                          ;	NM                                                                                                  ;	107-16W                  ;	33-14N                   ;	1478           
+
+KSVC                     ;	Silver City / Grant                                                                                 ;	NM                                                                                                  ;	108-09W                  ;	32-38N                   ;	1659           
+
+KFHU                     ;	Fort Huachuca, Libby Aaf Ft Huachuca                                                                ;	AZ                                                                                                  ;	110-20W                  ;	46-98N                   ;	1438           
+
+KTUS                     ;	Tucson International Airport                                                                        ;	AZ                                                                                                  ;	110-57W                  ;	32-08N                   ;	805            
+
+KRQE                     ;	Window Rock Airport                                                                                 ;	AZ                                                                                                  ;	109-04W                  ;	35-39N                   ;	2054           
+
+KPHX                     ;	Phoenix, Phoenix Sky Harbor International Airport                                                   ;	AZ                                                                                                  ;	112-03-04W               ;	33-26-03N                ;	345            
+
+KYUM                     ;	Yuma / Yuma International                                                                           ;	AZ                                                                                                  ;	114-36W                  ;	32-39N                   ;	65             
+
+KNJK                     ;	El Centro, Naval Air Facility                                                                       ;	CA                                                                                                  ;	115-39-38W               ;	32-49-30N                ;	-13            
+
+KBJN                     ;	Las Vegas, Tonopah Range #74 Nellis Afb                                                             ;	NV                                                                                                  ;	116-15-51W               ;	37-37-02                 ;	1756           
+
+KRIV                     ;	Riverside / March Air Force Base                                                                    ;	CA                                                                                                  ;	117-15W                  ;	33-54N                   ;	469            
+
+KBUR                     ;	Burbank-glendale-pasadena                                                                           ;	CA                                                                                                  ;	118-22W                  ;	34-12N                   ;	236            
+
+KMWS                     ;	Mount Wilson                                                                                        ;	CA                                                                                                  ;	118-04W                  ;	34-14N                   ;	1739           
+
+KSAN                     ;	San Diego International \lindbergh Fld                                                              ;	CA                                                                                                  ;	117-11W                  ;	32-44N                   ;	5              
+
+KNSI                     ;	San Nicolas Island                                                                                  ;	CA                                                                                                  ;	119-28W                  ;	33-14N                   ;	154            
+
+KAVX                     ;	Avalon Catalina Airport                                                                             ;	CA                                                                                                  ;	118-25W                  ;	33-24N                   ;	488            
+
+KNKX                     ;	Mcas Miramar                                                                                        ;	CA                                                                                                  ;	117-09W                  ;	32-52N                   ;	146            
+
+KLAX                     ;	Los Angeles Interntl Airport                                                                        ;	CA                                                                                                  ;	118-23W                  ;	33-56N                   ;	38             
+
+KLGB                     ;	Long Beach Airport                                                                                  ;	CA                                                                                                  ;	118-09W                  ;	33-49N                   ;	17             
+
+KPOB                     ;	Pope Air Force Base                                                                                 ;	NC                                                                                                  ;	079-02W                  ;	35-10N                   ;	61             
+
+KHAT                     ;	Cape Hatteras                                                                                       ;	NC                                                                                                  ;	075-33W                  ;	35-16N                   ;	2              
+
+KMHX                     ;	Newport                                                                                             ;	NC                                                                                                  ;	076-53W                  ;	34-47N                   ;	11             
+
+KRDU                     ;	Raleigh-durham International  Airport                                                               ;	NC                                                                                                  ;	078-46W                  ;	35-54N                   ;	133            
+
+KORF                     ;	Norfolk International Airport                                                                       ;	VA                                                                                                  ;	076-12W                  ;	36-54N                   ;	8              
+
+KNKT                     ;	Cherry Point, Marine Corps Air Station                                                              ;	NC                                                                                                  ;	076-52-51W               ;	34-53-52N                ;	8              
+
+KCAE                     ;	Columbia Metropolitan Airport                                                                       ;	SC                                                                                                  ;	081-07W                  ;	33-57N                   ;	72             
+
+KAHN                     ;	Athens Ben Epps Airport                                                                             ;	GA                                                                                                  ;	083-20W                  ;	33-57N                   ;	246            
+
+KGSP                     ;	Greer Greenville Spartburg                                                                          ;	SC                                                                                                  ;	82-13W                   ;	34-53N                   ;	296            
+
+KCLT                     ;	Charlotte/douglas International                                                                     ;	NC                                                                                                  ;	80-57W                   ;	35-13N                   ;	228            
+
+KAVL                     ;	Asheville Regional Airport                                                                          ;	NC                                                                                                  ;	82-32W                   ;	35-26N                   ;	660            
+
+KGSO                     ;	Piedmont Triad International  Airport                                                               ;	NC                                                                                                  ;	079-57W                  ;	36-06N                   ;	282            
+
+KRMG                     ;	Rome R. B. Russell Airport                                                                          ;	GA                                                                                                  ;	085-10W                  ;	34-21N                   ;	195            
+
+KHSV                     ;	Huntsville International  Jones Field                                                               ;	AL                                                                                                  ;	086-47W                  ;	34-39N                   ;	192            
+
+KCHA                     ;	Lovell Field                                                                                        ;	TN                                                                                                  ;	085-12W                  ;	35-02N                   ;	208            
+
+KTYS                     ;	Mcghee Tyson Airport                                                                                ;	TN                                                                                                  ;	083-59W                  ;	35-49N                   ;	299            
+
+KBNA                     ;	Nashville International  Airport                                                                    ;	TN                                                                                                  ;	086-41W                  ;	36-07N                   ;	183            
+
+KTUP                     ;	Tupelo Regional Airport                                                                             ;	MS                                                                                                  ;	88-46W                   ;	34-16N                   ;	105            
+
+KMEM                     ;	Memphis International Airport                                                                       ;	TN                                                                                                  ;	089-59W                  ;	35-02N                   ;	102            
+
+KLZK                     ;	North Little Rock, North Little Rock Airport                                                        ;	AR                                                                                                  ;	092-15W                  ;	34-50N                   ;	165            
+
+KRUE                     ;	Russelville Municipal Airport                                                                       ;	AR                                                                                                  ;	93-06W                   ;	35-15N                   ;	123            
+
+KFSM                     ;	Fort Smith Regional Airport                                                                         ;	AR                                                                                                  ;	94-22W                   ;	35-20N                   ;	143            
+
+KSPS                     ;	Wichita Falls Sheppard Afb                                                                          ;	TX                                                                                                  ;	98-30W                   ;	33-59N                   ;	309            
+
+KLTS                     ;	Altus Air Force Base                                                                                ;	OK                                                                                                  ;	099-16W                  ;	34-39N                   ;	420            
+
+KOKC                     ;	Will Rogers World Airport                                                                           ;	OK                                                                                                  ;	97-36W                   ;	35-23N                   ;	395            
+
+KTIK                     ;	Tinker Air Force Base                                                                               ;	OK                                                                                                  ;	097-23W                  ;	35-25N                   ;	394            
+
+KFSI                     ;	Fort Sill                                                                                           ;	OK                                                                                                  ;	098-24W                  ;	34-36N                   ;	362            
+
+KTUL                     ;	Tulsa International Airport                                                                         ;	OK                                                                                                  ;	95-53W                   ;	36-12N                   ;	206            
+
+KOUN                     ;	Norman / Max Westheimer                                                                             ;	OK                                                                                                  ;	097-27W                  ;	35-13N                   ;	357            
+
+KCAO                     ;	Clayton Municipal Airpark                                                                           ;	NM                                                                                                  ;	103-09W                  ;	36-27N                   ;	1513           
+
+KONM                     ;	Socorro Municipal                                                                                   ;	NM                                                                                                  ;	106-54W                  ;	34-01N                   ;	1478           
+
+KAMA                     ;	Amarillo International  Airport                                                                     ;	TX                                                                                                  ;	101-43W                  ;	35-13N                   ;	1099           
+
+KEPZ                     ;	Santa Teresa                                                                                        ;	NM                                                                                                  ;	106-42W                  ;	31-52N                   ;	1252           
+
+KABQ                     ;	Albuquerque International  Airport                                                                  ;	NM                                                                                                  ;	106-36W                  ;	35-02N                   ;	1631           
+
+KIGM                     ;	Kingman Airport                                                                                     ;	AZ                                                                                                  ;	113-56W                  ;	35-15N                   ;	1050           
+
+KPGA                     ;	Page Municipal Airport                                                                              ;	AZ                                                                                                  ;	111-27W                  ;	36-56N                   ;	1314           
+
+KINW                     ;	Winslow Municipal Airport                                                                           ;	AZ                                                                                                  ;	110-43W                  ;	35-02N                   ;	1505           
+
+KEDW                     ;	Edwards Air Force Base                                                                              ;	CA                                                                                                  ;	117-54W                  ;	34-55N                   ;	702            
+
+KPMD                     ;	Palmdale Prod Flight Plant                                                                          ;	CA                                                                                                  ;	118-05W                  ;	34-38N                   ;	775            
+
+KSDB                     ;	Sandberg                                                                                            ;	CA                                                                                                  ;	118-43W                  ;	34-45N                   ;	1379           
+
+KBFL                     ;	Bakersfield Meadows Field                                                                           ;	CA                                                                                                  ;	119-03W                  ;	35-26N                   ;	155            
+
+KLAS                     ;	Mccarran International Airport                                                                      ;	NV                                                                                                  ;	115-16W                  ;	36-07N                   ;	663            
+
+KDRA                     ;	Desert Rock Airport                                                                                 ;	NV                                                                                                  ;	116-02W                  ;	36-38N                   ;	1010           
+
+KFAT                     ;	Fresno Air Terminal                                                                                 ;	CA                                                                                                  ;	119-43W                  ;	36-47N                   ;	101            
+
+K87Q                     ;	Point Piedras Blanca                                                                                ;	CA                                                                                                  ;	121-17-05W               ;	35-39-56N                ;	17             
+
+KNTD                     ;	Nawcwpns Point Mugu, Ca                                                                             ;	CA                                                                                                  ;	119-07W                  ;	34-07N                   ;	4              
+
+KVBG                     ;	Lompoc, Vandenberg Air Force Base                                                                   ;	CA                                                                                                  ;	120-34-36W               ;	34-43-46N                ;	112            
+
+KSMX                     ;	Santa Maria Public Airport                                                                          ;	CA                                                                                                  ;	120-28W                  ;	34-54N                   ;	79             
+
+KRIC                     ;	Richmond International  Airport                                                                     ;	VA                                                                                                  ;	077-19W                  ;	37-31N                   ;	51             
+
+KWAL                     ;	Wallops Flight Fac Airport                                                                          ;	VA                                                                                                  ;	075-28W                  ;	37-56N                   ;	12             
+
+KIAD                     ;	Dulles International Airport                                                                        ;	VA                                                                                                  ;	077-27W                  ;	38-56N                   ;	95             
+
+KNHK                     ;	Nas Patuxent River Md                                                                               ;	MD                                                                                                  ;	76-24W                   ;	38-18N                   ;	12             
+
+KDCA                     ;	Washington National Airport                                                                         ;	VA                                                                                                  ;	077-02W                  ;	38-51N                   ;	5              
+
+KBWI                     ;	Baltimore-washington International                                                                  ;	MD                                                                                                  ;	076-41W                  ;	39-10N                   ;	45             
+
+KACY                     ;	Atlantic City International                                                                         ;	NJ                                                                                                  ;	74-35W                   ;	39-28N                   ;	23             
+
+KPHL                     ;	Philadelphia International  Airpt                                                                   ;	PA                                                                                                  ;	075-14W                  ;	39-52N                   ;	6              
+
+KNEL                     ;	Lakehurst Naval Air Station                                                                         ;	NJ                                                                                                  ;	074-19W                  ;	40-02N                   ;	31             
+
+KLYH                     ;	Lynchburg Regional Airport                                                                          ;	VA                                                                                                  ;	079-12W                  ;	37-19N                   ;	286            
+
+KROA                     ;	Roanoke Regional Airport                                                                            ;	VA                                                                                                  ;	079-58W                  ;	37-19N                   ;	358            
+
+KBKW                     ;	Raleigh County Mem Airport                                                                          ;	WV                                                                                                  ;	081-07W                  ;	37-48N                   ;	763            
+
+KCRW                     ;	Yeager Airport                                                                                      ;	WV                                                                                                  ;	081-36W                  ;	38-22N                   ;	299            
+
+KEKN                     ;	Jennings Randolph Field                                                                             ;	WV                                                                                                  ;	079-51W                  ;	38-53N                   ;	606            
+
+KCVG                     ;	Cincinnati/northern Ky International                                                                ;	KY                                                                                                  ;	084-40W                  ;	39-03N                   ;	273            
+
+KLEX                     ;	Lexington Blue Grass Airport                                                                        ;	KY                                                                                                  ;	084-36W                  ;	38-02N                   ;	299            
+
+KSDF                     ;	Standiford Field                                                                                    ;	KY                                                                                                  ;	085-44W                  ;	38-11N                   ;	151            
+
+KFTK                     ;	Fort Knox                                                                                           ;	KY                                                                                                  ;	085-58W                  ;	37-54N                   ;	230            
+
+KHTS                     ;	Tri-state Airport                                                                                   ;	WV                                                                                                  ;	082-33W                  ;	38-22N                   ;	252            
+
+KCMH                     ;	Port Columbus International  Airport                                                                ;	OH                                                                                                  ;	82-53W                   ;	40-00N                   ;	248            
+
+KDAY                     ;	Cox Dayton International                                                                            ;	OH                                                                                                  ;	084-13W                  ;	39-54N                   ;	308            
+
+KEVV                     ;	Evansville Regional                                                                                 ;	IN                                                                                                  ;	087-32W                  ;	38-02N                   ;	127            
+
+KSLO                     ;	Salem, Salem-leckrone Airport                                                                       ;	IL                                                                                                  ;	088-57-51W               ;	38-38-34N                ;	175            
+
+KSTL                     ;	Lambert-st Louis International  Airport                                                             ;	MO                                                                                                  ;	90-22W                   ;	38-45N                   ;	184            
+
+KPAH                     ;	Barkley Regional Airport                                                                            ;	KY                                                                                                  ;	088-46W                  ;	37-03N                   ;	125            
+
+KIND                     ;	Indianapolis International  Airport                                                                 ;	IN                                                                                                  ;	86-17W                   ;	39-43N                   ;	243            
+
+KSGF                     ;	Springfield-branson National                                                                        ;	MO                                                                                                  ;	93-23W                   ;	37-14N                   ;	386            
+
+KCOU                     ;	Columbia Regional Airport                                                                           ;	MO                                                                                                  ;	092-13W                  ;	38-49N                   ;	271            
+
+KMCI                     ;	Kansas City International  Airport                                                                  ;	MO                                                                                                  ;	94-44W                   ;	39-18N                   ;	313            
+
+KSTJ                     ;	Rosecrans Memorial Airport                                                                          ;	MO                                                                                                  ;	94-55W                   ;	39-46N                   ;	252            
+
+KICT                     ;	Wichita Mid-continent Airport                                                                       ;	KS                                                                                                  ;	97-26W                   ;	37-39N                   ;	406            
+
+KDDC                     ;	Dodge City Regional Airport                                                                         ;	KS                                                                                                  ;	99-58W                   ;	37-46N                   ;	791            
+
+KP28                     ;	Medicine Lodge                                                                                      ;	KS                                                                                                  ;	098-33W                  ;	37-17N                   ;	469            
+
+KFRI                     ;	Fort Riley, Marshall Aaf Ft Riley                                                                   ;	KS                                                                                                  ;	096-45-51W               ;	39-03-20N                ;	324            
+
+KTOP                     ;	Topeka Billard Municipal Airport                                                                    ;	KS                                                                                                  ;	95-38W                   ;	39-04N                   ;	269            
+
+KCNK                     ;	Concordia, Blosser Municipal Airport                                                                ;	KS                                                                                                  ;	097-39-02W               ;	39-33-05N                ;	453            
+
+K1K5                     ;	Elkhart / Elkhart-morton County Airport                                                             ;	KS                                                                                                  ;	101-53W                  ;	37-00N                   ;	1102           
+
+KALS                     ;	San Luis Valley Regional                                                                            ;	CO                                                                                                  ;	105-52W                  ;	37-26N                   ;	2297           
+
+KPUB                     ;	Pueblo Memorial Airport                                                                             ;	CO                                                                                                  ;	104-30W                  ;	38-17N                   ;	1440           
+
+KGLD                     ;	Goodland Renner Field                                                                               ;	KS                                                                                                  ;	101-42W                  ;	39-22N                   ;	1114           
+
+KCOS                     ;	Colorado Springs Muni                                                                               ;	CO                                                                                                  ;	104-43W                  ;	38-49N                   ;	1885           
+
+KFCS                     ;	Fort Carson                                                                                         ;	CO                                                                                                  ;	104-46W                  ;	38-42N                   ;	1789           
+
+KDNR                     ;	Denver / Stapleton International, Co.                                                               ;	CO                                                                                                  ;	104-52W                  ;	39-47N                   ;	1626           
+
+KPUC                     ;	Price Carbon County Airport                                                                         ;	UT                                                                                                  ;	110-45W                  ;	39-37N                   ;	1814           
+
+KGJT                     ;	Grand Junction Walker Field                                                                         ;	CO                                                                                                  ;	108-32W                  ;	39-08N                   ;	1481           
+
+KBIH                     ;	Bishop Airport                                                                                      ;	CA                                                                                                  ;	118-22W                  ;	37-22N                   ;	1256           
+
+KMER                     ;	Merced / Castle Air Force Base                                                                      ;	CA                                                                                                  ;	120-34W                  ;	37-22N                   ;	57             
+
+KSAC                     ;	Sacramento Executive Airport                                                                        ;	CA                                                                                                  ;	121-30W                  ;	38-30N                   ;	6              
+
+KELY                     ;	Ely Airport (yelland Field)                                                                         ;	NV                                                                                                  ;	114-51W                  ;	39-18N                   ;	1907           
+
+KP38                     ;	Caliente                                                                                            ;	NV                                                                                                  ;	114-31-35W               ;	37-36-44N                ;	1333           
+
+KRNO                     ;	Reno/tahoe International  Airport                                                                   ;	NV                                                                                                  ;	119-46W                  ;	39-29N                   ;	1345           
+
+KSCK                     ;	Stockton Metropolitan Airport                                                                       ;	CA                                                                                                  ;	121-14W                  ;	37-54N                   ;	9              
+
+KOAK                     ;	Metro Oakland International  Airport                                                                ;	CA                                                                                                  ;	122-14W                  ;	37-43N                   ;	2              
+
+KSFO                     ;	San Francisco International  Airport                                                                ;	CA                                                                                                  ;	122-22W                  ;	37-37N                   ;	3              
+
+K50Q                     ;	Farallon Island                                                                                     ;	CA                                                                                                  ;	123-00W                  ;	37-42N                   ;	12             
+
+KEWR                     ;	Newark International  Airport                                                                       ;	NJ                                                                                                  ;	74-10W                   ;	40-41N                   ;	5              
+
+KLGA                     ;	New York La Guardia Airport                                                                         ;	NY                                                                                                  ;	73-53W                   ;	40-47N                   ;	7              
+
+KBDR                     ;	Sikorsky Memorial Airport                                                                           ;	CT                                                                                                  ;	073-08W                  ;	41-10N                   ;	3              
+
+KFMH                     ;	Otis Air National Guard Base                                                                        ;	MA                                                                                                  ;	070-31W                  ;	41-39N                   ;	40             
+
+KPVD                     ;	Providence Green State Airport                                                                      ;	RI                                                                                                  ;	071-26W                  ;	41-44N                   ;	17             
+
+KBDL                     ;	Bradley International Airport                                                                       ;	CT                                                                                                  ;	072-41W                  ;	41-56N                   ;	53             
+
+KBOS                     ;	Boston Logan International                                                                          ;	MA                                                                                                  ;	071-01W                  ;	42-22N                   ;	6              
+
+KAVP                     ;	Wilkes-barre/scranton International                                                                 ;	PA                                                                                                  ;	75-44W                   ;	41-20N                   ;	293            
+
+KIPT                     ;	Williamsport-lycoming County                                                                        ;	PA                                                                                                  ;	076-55W                  ;	41-15N                   ;	161            
+
+KBGM                     ;	Binghamton Regional Airport                                                                         ;	NY                                                                                                  ;	75-59W                   ;	42-12N                   ;	499            
+
+KABE                     ;	Lehigh Valley International  Airport                                                                ;	PA                                                                                                  ;	075-27W                  ;	40-39N                   ;	120            
+
+KALB                     ;	Albany International Airport                                                                        ;	NY                                                                                                  ;	73-48W                   ;	42-45N                   ;	87             
+
+KSYR                     ;	Syracuse Hancock International  Airport                                                             ;	NY                                                                                                  ;	76-06W                   ;	43-07N                   ;	125            
+
+KPIT                     ;	Greater Pittsburgh International                                                                    ;	PA                                                                                                  ;	80-14W                   ;	40-29N                   ;	367            
+
+KCAK                     ;	Akron-canton Regional Airport                                                                       ;	OH                                                                                                  ;	081-27W                  ;	40-55N                   ;	374            
+
+KCLE                     ;	Cleveland-hopkins International                                                                     ;	OH                                                                                                  ;	081-51W                  ;	41-24N                   ;	241            
+
+KYNG                     ;	Youngstown-warren Reg Airprt                                                                        ;	OH                                                                                                  ;	080-40W                  ;	41-15N                   ;	365            
+
+KERI                     ;	Erie International Airport                                                                          ;	PA                                                                                                  ;	080-11W                  ;	42-05N                   ;	223            
+
+KBUF                     ;	Greater Buffalo International  Airport                                                              ;	NY                                                                                                  ;	078-44W                  ;	42-56N                   ;	221            
+
+KROC                     ;	Greater Rochester International                                                                     ;	NY                                                                                                  ;	077-41W                  ;	43-07N                   ;	170            
+
+KORD                     ;	null;	IL                                                                                                  ;	087-55W                  ;	41-59N                   ;	204            
+
+KPIA                     ;	Greater Peoria Regional Airport                                                                     ;	IL                                                                                                  ;	89-41W                   ;	40-40N                   ;	201            
+
+KFWA                     ;	Fort Wayne International                                                                            ;	IN                                                                                                  ;	85-12W                   ;	41-00N                   ;	248            
+
+KMDW                     ;	Chicago Midway Airport                                                                              ;	IL                                                                                                  ;	087-45W                  ;	41-47N                   ;	189            
+
+KSBN                     ;	South Bend Regional Airport                                                                         ;	IN                                                                                                  ;	086-19W                  ;	41-42N                   ;	244            
+
+KTOL                     ;	Toledo Express Airport                                                                              ;	OH                                                                                                  ;	083-48W                  ;	41-35N                   ;	208            
+
+KDTW                     ;	Detroit Metropolitan                                                                                ;	MI                                                                                                  ;	83-20W                   ;	42-14N                   ;	195            
+
+KLAN                     ;	Capital City Airport                                                                                ;	MI                                                                                                  ;	084-35W                  ;	42-47N                   ;	262            
+
+KP35                     ;	Spickard                                                                                            ;	MO                                                                                                  ;	093-43W                  ;	40-15N                   ;	271            
+
+KRFD                     ;	Greater Rockford Airport                                                                            ;	IL                                                                                                  ;	89-06W                   ;	42-12N                   ;	224            
+
+KMLI                     ;	Moline Quad-city Airport                                                                            ;	IL                                                                                                  ;	90-31W                   ;	41-27N                   ;	180            
+
+KDSM                     ;	Des Moines International                                                                            ;	IA                                                                                                  ;	93-40W                   ;	41-32N                   ;	292            
+
+KDBQ                     ;	Dubuque Regional Airport                                                                            ;	IA                                                                                                  ;	90-42W                   ;	42-24N                   ;	328            
+
+KALO                     ;	Waterloo Municipal Airport                                                                          ;	IA                                                                                                  ;	92-24W                   ;	42-33N                   ;	266            
+
+KFOD                     ;	Fort Dodge                                                                                          ;	IA                                                                                                  ;	094-11W                  ;	42-33N                   ;	354            
+
+KOMA                     ;	Omaha Eppley Airfield                                                                               ;	NE                                                                                                  ;	095-54W                  ;	41-18N                   ;	300            
+
+KLNK                     ;	Lincoln Municipal Airport                                                                           ;	NE                                                                                                  ;	96-46W                   ;	40-50N                   ;	372            
+
+KGRI                     ;	Central Nebraska Regional                                                                           ;	NE                                                                                                  ;	98-19W                   ;	40-58N                   ;	563            
+
+KOFF                     ;	Omaha / Offutt Air Force Base                                                                       ;	NE                                                                                                  ;	095-54W                  ;	41-07N                   ;	319            
+
+KOFK                     ;	Karl Stefan Memorial Airport                                                                        ;	NE                                                                                                  ;	097-26W                  ;	41-59N                   ;	479            
+
+KSUX                     ;	Sioux Gateway Airport                                                                               ;	IA                                                                                                  ;	96-23W                   ;	42-23N                   ;	335            
+
+KOAX                     ;	Valley                                                                                              ;	NE                                                                                                  ;	096-22W                  ;	41-19N                   ;	350            
+
+KSNY                     ;	Sidney Municipal Airport                                                                            ;	NE                                                                                                  ;	102-59W                  ;	41-06N                   ;	1315           
+
+KLBF                     ;	North Platte Regional Airport                                                                       ;	NE                                                                                                  ;	100-40W                  ;	41-07N                   ;	847            
+
+KCYS                     ;	Cheyenne Airport                                                                                    ;	WY                                                                                                  ;	104-48W                  ;	41-09N                   ;	1878           
+
+KDEN                     ;	Denver International Airport                                                                        ;	CO                                                                                                  ;	104-40W                  ;	39-52N                   ;	1655           
+
+KBFF                     ;	Scottsbluff Heilig Field                                                                            ;	NE                                                                                                  ;	103-36W                  ;	41-52N                   ;	1209           
+
+KVTN                     ;	Miller Field - Valentine, Ne                                                                        ;	NE                                                                                                  ;	100-33W                  ;	42-52N                   ;	789            
+
+KDGW                     ;	Douglas Converse County                                                                             ;	WY                                                                                                  ;	105-23W                  ;	42-48N                   ;	1502           
+
+KCPR                     ;	Natrona County International  Airport                                                               ;	WY                                                                                                  ;	106-28W                  ;	42-54N                   ;	1630           
+
+KCAG                     ;	Craig Moffat Airport                                                                                ;	CO                                                                                                  ;	107-31W                  ;	40-30N                   ;	1888           
+
+KSLC                     ;	Salt Lake City International  Airport                                                               ;	UT                                                                                                  ;	111-58W                  ;	40-47N                   ;	1288           
+
+KRKS                     ;	Rock Springs-sweetwater Co                                                                          ;	WY                                                                                                  ;	109-03W                  ;	41-36N                   ;	2060           
+
+KOGD                     ;	Ogden-hinckley Airport                                                                              ;	UT                                                                                                  ;	112-01W                  ;	41-12N                   ;	1362           
+
+KLND                     ;	Lander Hunt Field                                                                                   ;	WY                                                                                                  ;	108-44W                  ;	42-49N                   ;	1703           
+
+KPIH                     ;	Pocatello Regional Airport                                                                          ;	ID                                                                                                  ;	112-36W                  ;	42-55N                   ;	1356           
+
+KENV                     ;	Wendover / Air Force Auxillary Field                                                                ;	UT                                                                                                  ;	114-02W                  ;	40-44N                   ;	1291           
+
+KWMC                     ;	Winnemucca Municipal Airport                                                                        ;	NV                                                                                                  ;	117-48W                  ;	40-54N                   ;	1312           
+
+KO64                     ;	Fort Bragg                                                                                          ;	CA                                                                                                  ;	123-49W                  ;	39-24N                   ;	19             
+
+KRBL                     ;	Red Bluff Municipal Airport                                                                         ;	CA                                                                                                  ;	122-15W                  ;	40-09N                   ;	106            
+
+KRDD                     ;	Redding Municipal Airport                                                                           ;	CA                                                                                                  ;	122-17W                  ;	40-30N                   ;	153            
+
+KEKA                     ;	Eureka                                                                                              ;	CA                                                                                                  ;	124-10W                  ;	40-48N                   ;	13             
+
+KMFR                     ;	Rogue Valley International  Airport                                                                 ;	OR                                                                                                  ;	122-53W                  ;	42-23N                   ;	406            
+
+KCON                     ;	Concord, Concord Municipal Airport                                                                  ;	NH                                                                                                  ;	071-30-04W               ;	43-11-43N                ;	105            
+
+KPWM                     ;	Portland International  Jetport                                                                     ;	ME                                                                                                  ;	70-18W                   ;	43-39N                   ;	23             
+
+KEPO                     ;	Eastport                                                                                            ;	ME                                                                                                  ;	067-00W                  ;	44-55N                   ;	24             
+
+K9B2                     ;	Newport                                                                                             ;	VT                                                                                                  ;	072-12W                  ;	44-56N                   ;	233            
+
+KMWN                     ;	Mount Washington                                                                                    ;	NH                                                                                                  ;	071-18W                  ;	44-16N                   ;	1909           
+
+K1V4                     ;	St Johnsbury Fairbanks                                                                              ;	VT                                                                                                  ;	072-01W                  ;	44-25N                   ;	212            
+
+KBML                     ;	Berlin Municipal Airport                                                                            ;	NH                                                                                                  ;	71-11W                   ;	44-35N                   ;	353            
+
+KBTV                     ;	Burlington International                                                                            ;	VT                                                                                                  ;	73-09W                   ;	44-28N                   ;	102            
+
+KRUM                     ;	Rumford                                                                                             ;	ME                                                                                                  ;	070-32W                  ;	44-32N                   ;	192            
+
+KGRR                     ;	Gerald R. Ford International                                                                        ;	MI                                                                                                  ;	085-31W                  ;	42-53N                   ;	242            
+
+KMKG                     ;	Muskegon County Airport                                                                             ;	MI                                                                                                  ;	086-14W                  ;	43-10N                   ;	191            
+
+KFNT                     ;	Flint Bishop International  Airport                                                                 ;	MI                                                                                                  ;	83-45W                   ;	42-58N                   ;	238            
+
+KHTL                     ;	Roscommon County Airport                                                                            ;	MI                                                                                                  ;	084-40W                  ;	44-21N                   ;	351            
+
+KAPN                     ;	Alpena County Regional Airport                                                                      ;	MI                                                                                                  ;	083-34W                  ;	45-05N                   ;	210            
+
+KMKE                     ;	Gen Mitchell International  Airport                                                                 ;	WI                                                                                                  ;	87-54W                   ;	42-57N                   ;	220            
+
+KMSN                     ;	Madison Dane County Rgnl                                                                            ;	WI                                                                                                  ;	89-21W                   ;	43-08N                   ;	263            
+
+KLSE                     ;	La Crosse Municipal Airport                                                                         ;	WI                                                                                                  ;	091-15W                  ;	43-53N                   ;	199            
+
+KRST                     ;	Rochester International Airport                                                                     ;	MN                                                                                                  ;	092-30W                  ;	43-54N                   ;	401            
+
+KGRB                     ;	Austin Straubel International  Airport                                                              ;	WI                                                                                                  ;	088-08W                  ;	44-29N                   ;	212            
+
+KESC                     ;	Escanaba                                                                                            ;	MI                                                                                                  ;	087-02W                  ;	45-45N                   ;	180            
+
+KFSD                     ;	Sioux Falls Foss Field                                                                              ;	SD                                                                                                  ;	096-45W                  ;	43-35N                   ;	436            
+
+K9V9                     ;	Chamberlain Municipal Airport                                                                       ;	SD                                                                                                  ;	099-19W                  ;	43-46N                   ;	517            
+
+KHON                     ;	Huron Regional Airport                                                                              ;	SD                                                                                                  ;	098-14W                  ;	44-23N                   ;	393            
+
+KSFD                     ;	Winner, Bob Wiley Field Airport                                                                     ;	SD                                                                                                  ;	099-50-33W               ;	43-23-26N                ;	619            
+
+KMSP                     ;	Minneapolis-st Paul International                                                                   ;	MN                                                                                                  ;	93-13W                   ;	44-52N                   ;	256            
+
+KABR                     ;	Aberdeen Regional Airport                                                                           ;	SD                                                                                                  ;	098-25W                  ;	45-27N                   ;	397            
+
+KRAP                     ;	Rapid City Regional Airport                                                                         ;	SD                                                                                                  ;	103-03W                  ;	44-03N                   ;	976            
+
+KGCC                     ;	Gillette-campbell Cty Airport                                                                       ;	WY                                                                                                  ;	105-33W                  ;	44-20N                   ;	1330           
+
+KSHR                     ;	Sheridan County Airport                                                                             ;	WY                                                                                                  ;	106-58W                  ;	44-46N                   ;	1226           
+
+KCOD                     ;	Cody                                                                                                ;	WY                                                                                                  ;	109-01W                  ;	44-31N                   ;	1551           
+
+KBPI                     ;	Big Piney-marbleton Airport                                                                         ;	WY                                                                                                  ;	110-06W                  ;	42-35N                   ;	2131           
+
+KRIW                     ;	Riverton Regional Airport                                                                           ;	WY                                                                                                  ;	108-27W                  ;	43-04N                   ;	1684           
+
+KBIL                     ;	Logan International Airport                                                                         ;	MT                                                                                                  ;	108-33W                  ;	45-49N                   ;	1112           
+
+KBOI                     ;	Boise Air Terminal                                                                                  ;	ID                                                                                                  ;	116-14W                  ;	43-34N                   ;	871            
+
+KBNO                     ;	Burns Municipal Airport                                                                             ;	OR                                                                                                  ;	118-57W                  ;	43-36N                   ;	1263           
+
+KPDT                     ;	Pendleton Municipal Airport                                                                         ;	OR                                                                                                  ;	118-83W                  ;	45-70N                   ;	455            
+
+KEUG                     ;	Mahlon Sweet Field                                                                                  ;	OR                                                                                                  ;	123-13W                  ;	44-08N                   ;	111            
+
+KSLE                     ;	Salem Mcnary Field                                                                                  ;	OR                                                                                                  ;	123-00W                  ;	44-54N                   ;	64             
+
+KPDX                     ;	Portland International  Airport                                                                     ;	OR                                                                                                  ;	122-36W                  ;	45-35N                   ;	8              
+
+KCAR                     ;	Caribou Municipal Airport                                                                           ;	ME                                                                                                  ;	68-01W                   ;	46-52N                   ;	191            
+
+KPQI                     ;	Presque Isle                                                                                        ;	ME                                                                                                  ;	068-03W                  ;	46-41N                   ;	163            
+
+KANJ                     ;	Sault Ste. Marie Muni                                                                               ;	MI                                                                                                  ;	084-21W                  ;	46-29N                   ;	218            
+
+KPKF                     ;	Park Falls                                                                                          ;	WI                                                                                                  ;	090-27W                  ;	45-56N                   ;	462            
+
+KMQT                     ;	Marquette                                                                                           ;	MI                                                                                                  ;	087-33W                  ;	46-32N                   ;	434            
+
+KCMX                     ;	Hancock Houghton Cty. Memo                                                                          ;	MI                                                                                                  ;	088-29W                  ;	47-10N                   ;	334            
+
+KDLH                     ;	Duluth, Duluth International Airport                                                                ;	MN                                                                                                  ;	092-13-34W               ;	46-50-34N                ;	435            
+
+KINL                     ;	Falls International Airport                                                                         ;	MN                                                                                                  ;	093-24W                  ;	48-34N                   ;	361            
+
+KP39                     ;	Pequot Lake                                                                                         ;	MN                                                                                                  ;	094-19W                  ;	46-36N                   ;	390            
+
+KFAR                     ;	Hector International Airport                                                                        ;	ND                                                                                                  ;	096-49W                  ;	46-56N                   ;	274            
+
+KBJI                     ;	Bemidji                                                                                             ;	MN                                                                                                  ;	094-56W                  ;	47-30N                   ;	423            
+
+KD45                     ;	Warroad                                                                                             ;	MN                                                                                                  ;	095-21W                  ;	48-56N                   ;	328            
+
+KP11                     ;	Devils Lake                                                                                         ;	ND                                                                                                  ;	098-52W                  ;	48-06N                   ;	439            
+
+KBIS                     ;	Bismarck Municipal Airport                                                                          ;	ND                                                                                                  ;	100-45W                  ;	46-47N                   ;	511            
+
+KP24                     ;	Roseglen                                                                                            ;	ND                                                                                                  ;	101-50W                  ;	47-45N                   ;	624            
+
+KISN                     ;	Sloulin Field International  Airport                                                                ;	ND                                                                                                  ;	103-39W                  ;	48-11N                   ;	604            
+
+KGGW                     ;	Glasgow International Airport                                                                       ;	MT                                                                                                  ;	106-37W                  ;	48-13N                   ;	699            
+
+KHLN                     ;	Helena Regional Airport                                                                             ;	MT                                                                                                  ;	111-58W                  ;	46-36N                   ;	1180           
+
+KMSO                     ;	Missoula International Airport                                                                      ;	MT                                                                                                  ;	114-06W                  ;	46-55N                   ;	976            
+
+KGTF                     ;	Great Falls International                                                                           ;	MT                                                                                                  ;	111-23W                  ;	47-28N                   ;	1120           
+
+KHVR                     ;	Havre City-county Airport                                                                           ;	MT                                                                                                  ;	109-46W                  ;	48-33N                   ;	789            
+
+KGPI                     ;	Glacier Park International  Airport                                                                 ;	MT                                                                                                  ;	114-16W                  ;	48-18N                   ;	906            
+
+KYKM                     ;	Yakima Air Terminal                                                                                 ;	WA                                                                                                  ;	120-32W                  ;	46-34N                   ;	334            
+
+KLWS                     ;	Lewiston Nez Perce Co Airport                                                                       ;	ID                                                                                                  ;	117-01W                  ;	46-22N                   ;	438            
+
+KHMS                     ;	Hanford                                                                                             ;	WA                                                                                                  ;	119-36W                  ;	46-34N                   ;	223            
+
+KGEG                     ;	Spokane International Airport                                                                       ;	WA                                                                                                  ;	117-32W                  ;	47-37N                   ;	723            
+
+KAST                     ;	Port Of Astoria Airport                                                                             ;	OR                                                                                                  ;	123-53W                  ;	46-09N                   ;	3              
+
+KOLM                     ;	Olympia Airport                                                                                     ;	WA                                                                                                  ;	122-54W                  ;	46-58N                   ;	63             
+
+KSEA                     ;	Seattle-tacoma International  Airport                                                               ;	WA                                                                                                  ;	122-19W                  ;	47-27N                   ;	131            
+
+KUIL                     ;	Quillayute State Airport                                                                            ;	WA                                                                                                  ;	124-34W                  ;	47-56N                   ;	59             
+
+KDPG                     ;	Dugway Proving Grounds                                                                              ;	UT                                                                                                  ;	112-56W                  ;	40-10N                   ;	1326           
+
+KNOW                     ;	Port Angeles Coast Guard Air Station                                                                ;	WA                                                                                                  ;	123-24W                  ;	48-08N                   ;	5              
+
+KTCM                     ;	Tacoma / Mcchord Air Force Base                                                                     ;	WA                                                                                                  ;	122-29W                  ;	47-09N                   ;	98             
+
+KGRF                     ;	Fort Lewis / Gray U. S. Army Airfield                                                               ;	WA                                                                                                  ;	122-33W                  ;	47-07N                   ;	92             
+
+KMLS                     ;	Miles City Wiley Field                                                                              ;	MT                                                                                                  ;	105-53W                  ;	46-26N                   ;	801            
+
+K3RN                     ;	Graying Air Force Range                                                                             ;	MI                                                                                                  ;	084-33W                  ;	44-50N                   ;	387            
+
+KGTB                     ;	Fort Drum / Wheeler-sack U. S. Army Airfield                                                        ;	NY                                                                                                  ;	075-44W                  ;	44-03N                   ;	207            
+
+KNHZ                     ;	Brunswick Naval Air Stn                                                                             ;	ME                                                                                                  ;	69-56W                   ;	43-54N                   ;	23             
+
+KU67                     ;	Roosevelt                                                                                           ;	UT                                                                                                  ;	109-59W                  ;	40-18N                   ;	1553           
+
+KMMO                     ;	Marseilles Island                                                                                   ;	IL                                                                                                  ;	088-41W                  ;	41-22N                   ;	223            
+
+KJFK                     ;	Kennedy International Airport                                                                       ;	NY                                                                                                  ;	073-46W                  ;	40-38N                   ;	4              
+
+KBED                     ;	Bedford Hanscom Field                                                
